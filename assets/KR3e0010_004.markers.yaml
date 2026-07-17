@@ -671,6 +671,7 @@ markers:
   - {type: indent, offset: 1917, content: 　, id: KR3e0010_krp_004-bkkind74}
   - {type: variant, offset: 1918, length: 1, content: 灰, WYG: 􅁅}
   - {type: punctuation, offset: 1928, content: (, id: KR3e0010_krp_004-bkkpn1}
+  - {type: voice, offset: 1928, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1930, content: /, id: KR3e0010_krp_004-bkkpn2}
   - {type: punctuation, offset: 1932, content: ), id: KR3e0010_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 1932, content: '
@@ -875,6 +876,7 @@ markers:
   - {type: line-break, offset: 2521, content: '', id: KR3e0010_WYG_004-10b08}
   - {type: indent, offset: 2521, content: 　, id: KR3e0010_krp_004-bkkind97}
   - {type: punctuation, offset: 2523, content: (, id: KR3e0010_krp_004-bkkpn4}
+  - {type: voice, offset: 2523, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2524, content: /, id: KR3e0010_krp_004-bkkpn5}
   - {type: punctuation, offset: 2524, content: ), id: KR3e0010_krp_004-bkkpn6}
   - {type: indent, offset: 2524, content: 　　　, id: KR3e0010_krp_004-bkkind98}
@@ -1493,6 +1495,7 @@ markers:
   - {type: line-break, offset: 4234, content: '', id: KR3e0010_WYG_004-17b07}
   - {type: substitution, offset: 4238, original: 胷, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17174}}
   - {type: punctuation, offset: 4246, content: (, id: KR3e0010_krp_004-bkkpn7}
+  - {type: voice, offset: 4246, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 4248, content: /, id: KR3e0010_krp_004-bkkpn8}
   - {type: punctuation, offset: 4250, content: ), id: KR3e0010_krp_004-bkkpn9}
   - {type: 'kr:newline', offset: 4250, content: '
@@ -4658,4 +4661,4 @@ markers:
 
       ', id: KR3e0010_krp_004-bkkkrnewl935}
   back: []
-hash: sha256:cb055755e32c7b45584e974fe9daba84df83c209d5559af01b9add664444b0f5
+hash: sha256:3a34a5b9bf3832cf217f5ca3b2a35db0da2e3678fe0cfd48ab4996d8dc53d35b
